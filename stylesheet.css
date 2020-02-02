@@ -74,15 +74,25 @@ body {
 }
 .me {
     color: black;
-    font-family: Apple Chancery, cursive;
+    font-family: Georgia, serif;
 }
 .myself {
     margin-left: 6%;
 }
-.ending {
+.more {
     margin: 0;
     font-size: 28px;
     font-family: American Typewriter, serif;
+}
+.more h1 {
+    margin: 0;
+    font-size: 30px;
+    font-family: American Typewriter, serif;
+}
+.ending {
+    margin: 0;
+    font-size: 32px;
+    font-family: Snell Roundhand, cursive;
 }
 
 .pgTitle {
@@ -109,11 +119,11 @@ body {
     font-family: Optima, sans-serif;
 }
 .introduction-pg h1{
-    color: #F9BE02;
+    color: white;
 }
 .description-pg {
     margin-right: 5%;
-    color: #F9BE02;
+    color: white;
     font-size: 24px;
 }
 .description-pg table {
@@ -151,11 +161,11 @@ body {
     font-family: Optima, sans-serif;
 }
 .introduction-sg h1 {
-    color: #F9BE02;
+    color: white;
 }
 .description-sg {
     margin-right: 5%;
-    color: #F9BE02;
+    color: white;
     font-size: 24px;
 }
 .description-sg table {
@@ -179,7 +189,7 @@ body {
     background-position: 50% 50%;
 }
 .sfTitle h1 {
-    color: #ff9900;
+    color: black;
     font-size: 3em;
     font-weight: bold;
     margin-left: 22%;
@@ -193,11 +203,11 @@ body {
     font-family: Optima, sans-serif;
 }
 .introduction-sf h1 {
-    color: #F9BE02;
+    color: white;
 }
 .description-sf {
     margin-right: 5%;
-    color: #F9BE02;
+    color: white;
     font-size: 24px;
 }
 .description-sf table {
@@ -235,11 +245,11 @@ body {
     font-family: Optima, sans-serif;
 }
 .introduction-pf h1 {
-    color: #F9BE02;
+    color: white;
 }
 .description-pf {
     margin-right: 5%;
-    color: #F9BE02;
+    color: white;
     font-size: 24px;
 }
 .description-pf table {
@@ -277,11 +287,11 @@ body {
     font-family: Optima, sans-serif;
 }
 .introduction-cf h1 {
-    color: #F9BE02;
+    color: white;
 }
 .description-cf {
     margin-right: 5%;
-    color: #F9BE02;
+    color: white;
     font-size: 24px;
 }
 .description-cf table {
